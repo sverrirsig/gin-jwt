@@ -1,7 +1,7 @@
 module github.com/appleboy/gin-jwt
 
 require (
-	github.com/appleboy/gofight v2.0.0+incompatible
+	github.com/appleboy/gofight/v2 v2.0.0+incompatible
 	github.com/buger/jsonparser v0.0.0-20181115193947-bf1c66bbce23 // indirect
 	github.com/davecgh/go-spew v1.1.0 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
